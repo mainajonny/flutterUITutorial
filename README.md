@@ -1,6 +1,6 @@
-# nash_mini
+# flutterUITutorial
 
-A new Flutter project.
+A new Flutter project to tutor people on a simple financial app UI.
 
 ## Getting Started
 
